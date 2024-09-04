@@ -1,5 +1,5 @@
 # :cloud: GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=whymind&bg_color=50,BFBFBF,FFFFFF,BFBFBF&theme=black&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=x9love&bg_color=0,BFBFBF,FFFFFF,BFBFBF&theme=black&show_icons=true)
 
 # :ghost: Tech Stacks
 ![typescript](https://img.shields.io/badge/Typescript-black?style=for-the-badge&logo=typescript)
